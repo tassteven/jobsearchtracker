@@ -1,0 +1,29 @@
+.main {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 23px;
+  color: teal;
+}
+
+.mainContainer {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+@media only screen and (min-width: 992px) {
+	.mainContainer {
+		margin-left: 150px;
+		margin-right: 150px;
+	}
+}
+
+.login-btn {
+  text-align: center;
+}
+
+.choiceBtns {
+  text-align: center;
+  margin: 8px;
+}
